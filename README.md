@@ -1,2 +1,2 @@
-# react-study
+# study-react
 Projetos para fins estudantis sobre React.
